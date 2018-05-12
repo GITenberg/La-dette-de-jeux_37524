@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4290
     wikipedia: http://en.wikipedia.org/wiki/Paul_Lacroix
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37524#La-dette-de-jeux
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2011-09-24'
 gutenberg_type: Text
