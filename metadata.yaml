@@ -1,0 +1,35 @@
+_repo: La-dette-de-jeux_37524
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jacob, P. L.
+    aliases:
+    - Dufour, Pierre
+    - Jacob, Bibliophile
+    - Jacob, Paul L.
+    - Lacroix, Paul
+    birthdate: 1806
+    deathdate: 1884
+    gutenberg_agent_id: '4290'
+    url: http://www.gutenberg.org/2009/agents/4290
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Lacroix
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2011-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37524'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Historical fiction'
+- !lcsh 'France -- History -- Wars of the Huguenots, 1562-1598 -- Fiction'
+- !lcsh 'Saint Bartholomew''s Day, Massacre of, France, 1572 -- Fiction'
+title: La dette de jeu (1572)
+url: http://www.gutenberg.org/ebooks/37524
